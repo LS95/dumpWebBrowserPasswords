@@ -1,0 +1,2 @@
+# dumpWebBrowerPasswords
+恢复本地主流浏览器保存账号密码信息
